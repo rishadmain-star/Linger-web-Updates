@@ -1,9 +1,9 @@
 {
   "version": "0.30.2",
   "notes": [
-    "N/a",
-    "N/a"
+    "Minor Tweaks",
+    "Tab/URL switch bug fixed."
   ],
-  "url": "https://example.com/placeholder",
-  "sha256": "5DBBEC9754A664F1FF423564D3F8BE390170CFFA2C2E084A7167FDBBCF3D98B4"
+  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.30.2/Browser.exe",
+  "sha256": "sha256:30452c124dfcb53b91f532d88c524133e3b612c12fe6ab155fa5b79835b2a926"
 }
