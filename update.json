@@ -1,7 +1,8 @@
 {
-  "version": "0.30.0",
+  "version": "0.30.1",
   "notes": [
-    "You're on the latest version."
+    "Testing updater UI",
+    "This is a fake update"
   ],
   "url": ""
 }
