@@ -1,8 +1,7 @@
 {
-  "version": "0.30.1",
+  "version": "0.30.0",
   "notes": [
-    "Testing download flow",
-    "This downloads a dummy file."
+    "You're on the latest version."
   ],
-  "url": "https://raw.githubusercontent.com/rishadmain-star/Linger-web-Updates/main/dummy.txt"
+  "url": ""
 }
