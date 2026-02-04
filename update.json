@@ -1,9 +1,9 @@
 {
-  "version": "0.30.2",
+  "version": "0.30.3",
   "notes": [
-    "Minor Tweaks",
-    "Tab/URL switch bug fixed."
+    "Settings Update",
+    "TNew settings layout + bug fixes"
   ],
-  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.30.2/Browser.exe",
-  "sha256": "30452c124dfcb53b91f532d88c524133e3b612c12fe6ab155fa5b79835b2a926"
+  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.30.3/Browser.exe",
+  "sha256": "d839f435ac0be33a90faab3a6fbb1ed123074584f4c262a5f9e10e741a882f4e"
 }
