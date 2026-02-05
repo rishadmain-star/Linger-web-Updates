@@ -1,9 +1,10 @@
 {
-  "version": "0.30.3",
+  "version": "0.30.4",
   "notes": [
-    "Settings Update",
-    "TNew settings layout + bug fixes"
+    "UI cleanup",
+    "optimizations + bug fixes"
   ],
-  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.30.3/Browser.exe",
-  "sha256": "d839f435ac0be33a90faab3a6fbb1ed123074584f4c262a5f9e10e741a882f4e"
+  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.30.4/Browser.exe",
+  "sha256": "0c4b7ee6486dbafc2ae957809ea3b61fb8889a8e001ea7f782d0d86fbc29e6b2"
 }
+
