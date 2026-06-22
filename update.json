@@ -1,12 +1,13 @@
 {
-  "version": "0.31.5",
+  "version": "0.32.6",
   "notes": [
-    "Updater Fixed",
-    "Bugs Squashed, New Extensions feature, and Settings update",
-    "Stay tuned for 4.0!"
-    
+    "Added a new Get Started setup page, browser colour customization.",  
+    "instant tab/navbar accent updates", 
+    "LINGER PRIVACY settings", 
+    "improved fullscreen ESC handling", 
+    "removed the status bar",
   ],
-  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.31.5/Linger.exe",
-  "sha256": "7e51f28ebbaf0d25260ae551ceff37afaf5ee84b3e5a12b325b4983d8c9464d0"
+  "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.32.6/Linger.exe",
+  "sha256": "731cdcaaeba5645a5ed9d58726561cf5b15dd44fa83ceabc0b73ab71ab44b5d5"
 }
 
