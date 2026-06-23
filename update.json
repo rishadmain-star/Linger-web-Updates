@@ -1,5 +1,5 @@
 {
-  "version": "0.32.6",
+  "version": "0.32.7",
   "notes": [
     "Added a new Get Started setup page, browser colour customization.",  
     "instant tab/navbar accent updates", 
@@ -8,6 +8,6 @@
     "removed the status bar"
   ],
   "url": "https://github.com/rishadmain-star/Linger-web-Updates/releases/download/0.32.6/Linger.exe",
-  "sha256": "8794817b35a9ed7e0b3824a37e485c7ba4c618aeaf0564316239e524f39aef8f"
+  "sha256": "daf27b7aa9e678286c340b93568e9dd55616ef05bb900bbe7099b3f6af7519d0"
 }
 
